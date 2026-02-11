@@ -1,1 +1,2 @@
 this is my first txt file created in Git bash
+now i am trying pull origin main
